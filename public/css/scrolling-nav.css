@@ -3,12 +3,13 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+/*
 IMG.displayed {
-    display: block;
+    display: auto;
     margin-left: auto;
     margin-right: auto
     }
-
+*/
 
 body {
     width: 100%;
@@ -44,7 +45,7 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background-image: url('../images/character_sketches.jpg');
+    background-image: url('../images/pink_stripes.png');
     background-size: 80px 60px;
  /*   background: #fff; */
 }
