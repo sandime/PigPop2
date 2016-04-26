@@ -44,7 +44,7 @@ of those sections to manage the look and feel of the site. */
 
 .intro-section {
     height: 100%;
-    padding-top: 75px;
+    padding-top: 100px;
     text-align: center;
     background-image: url('../images/pink_stripes.png');
     background-size: 80px 60px;
